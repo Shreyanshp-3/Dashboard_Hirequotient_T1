@@ -166,7 +166,7 @@ const Dashboard = () => {
                             <FiSearch />
                         </Tooltip>} />
                         <Input
-                            placeholder="Search by name, email, or role"
+                            placeholder="Search "
                             value={searchTerm}
                             color="#333"
                             onChange={handleSearchChange}
